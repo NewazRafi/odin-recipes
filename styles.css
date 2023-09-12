@@ -1,0 +1,20 @@
+/* styles.css */
+
+* {
+    /* background-color: aquamarine; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+#title {
+    font-size: 42px;
+    background-color: aquamarine;
+}
+
+.recipe-list {
+    
+    font-size: 24px;
+    background-color: rgb(174, 233, 179);
+
+}
+
