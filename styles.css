@@ -6,15 +6,46 @@
     
 }
 
+body {
+    background: #eee;
+    font-family: sans-serif;
+  }
+
+.card {
+    width: 400px;
+    background: #fff;
+    margin: 26px auto;
+    padding: 8px;
+}
+
 #title {
     font-size: 42px;
     background-color: aquamarine;
+    padding: 10px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.content {
+    background: rgb(174, 233, 179);
+    padding: 16px 8px 16px 8px;
+    margin-bottom: 8px;
+    text-align: center;
 }
 
 .recipe-list {
     
-    font-size: 24px;
+    font-size: 16px;
     background-color: rgb(174, 233, 179);
-
+    padding: 16px 8px 16px 8px;
+    text-align: center;
 }
 
+button {
+    background: rgb(255, 255, 255);
+    border: 1px solid #eee;
+    padding: 8px 24px;
+    margin: 0 auto;
+    display: block;
+}
